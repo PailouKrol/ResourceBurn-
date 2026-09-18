@@ -1,0 +1,6 @@
+EnableWorkers=false
+EnableReplication=false
+StopParentWhenDisabled=true
+AutoStart=false
+CleanWorkersOnExit=true
+NotifyOnStart=false
