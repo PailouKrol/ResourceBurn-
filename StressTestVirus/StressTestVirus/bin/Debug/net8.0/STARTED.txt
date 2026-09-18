@@ -1,0 +1,6 @@
+Запущено: 2026-09-18 13:16:53
+Роль:     parent
+PID:      2076
+Префикс:  ZX
+Exe:      C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\bin\Debug\net8.0\Svchost.exe
+Папка:    C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\bin\Debug\net8.0

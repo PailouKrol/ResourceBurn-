@@ -1,0 +1,14 @@
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\bin\Release\net8.0\Svchost.exe
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\bin\Release\net8.0\Svchost.deps.json
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\bin\Release\net8.0\Svchost.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\bin\Release\net8.0\Svchost.dll
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\bin\Release\net8.0\Svchost.pdb
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\obj\Release\net8.0\StressTestVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\obj\Release\net8.0\StressTestVirus.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\obj\Release\net8.0\StressTestVirus.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\obj\Release\net8.0\StressTestVirus.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\obj\Release\net8.0\Svchost.dll
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\obj\Release\net8.0\refint\Svchost.dll
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\obj\Release\net8.0\Svchost.pdb
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\obj\Release\net8.0\StressTestVirus.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\StressTestVirus\StressTestVirus\obj\Release\net8.0\ref\Svchost.dll
